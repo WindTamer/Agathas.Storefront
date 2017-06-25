@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.StoreFront.Web.MVC\Global.asax</string>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.StoreFront.Web.MVC\Global.asax.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Agathas.StoreFront.Web.MVC</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Model\Products\IProductTitleRepository.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.StoreFront.Web.MVC\Web.config</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\IoCControllerFactory.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.StoreFront.Web.MVC\Default.aspx</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\Controllers\HomeController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\Controllers\ProductCatalogBaseController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.IOC\ControllerRegistry.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.IOC\IOCContainer.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\SessionStorage\SessionFactory.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\Repositories\Repository.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\JsonDTOs\JsonModelBinder.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Services\Implementations\ProductCatalogService.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Services\Mapping\ProductMapper.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\Controllers\ProductController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\JsonDTOs\JsonBasketQtyUpdateRequest.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.Storefront.Controllers\Controllers\BasketController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\Professional-ASP.NET-Design-Patterns\ASPPatterns.Chap12\Agathas.Storefront - VS 2010\Agathas.StoreFront.Web.MVC\Views\Basket\View.aspx</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

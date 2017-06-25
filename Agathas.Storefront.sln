@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.Controllers", "Agathas.Storefront.Controllers\Agathas.Storefront.Controllers.csproj", "{4400EE5D-37C3-4158-8443-67D534537C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.Infrastructure", "Agathas.Storefront.Infrastructure\Agathas.Storefront.Infrastructure.csproj", "{963F04CC-724D-435B-987E-8B92F7741B75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.Model", "Agathas.Storefront.Model\Agathas.Storefront.Model.csproj", "{A909922F-F7DA-4EE6-9B36-04E3B3CA1360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.Repository.NHibernate", "Agathas.Storefront.Repository.NHibernate\Agathas.Storefront.Repository.NHibernate.csproj", "{FB7B4FBD-BCC8-4734-A796-48CE0D674CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.Services", "Agathas.Storefront.Services\Agathas.Storefront.Services.csproj", "{3BEF0A3F-A420-434A-9565-FA7D1CD6A1BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.StoreFront.Web.MVC", "Agathas.StoreFront.Web.MVC\Agathas.StoreFront.Web.MVC.csproj", "{4D45F1B5-1CBA-4620-A9E5-BE9E39C65ACB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{2DFDE666-F270-421F-8AEB-E9B597DBBA90}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.IOC", "Agathas.Storefront.IOC\Agathas.Storefront.IOC.csproj", "{68D70562-F80C-46B6-80AF-BC298122542B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4400EE5D-37C3-4158-8443-67D534537C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4400EE5D-37C3-4158-8443-67D534537C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4400EE5D-37C3-4158-8443-67D534537C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4400EE5D-37C3-4158-8443-67D534537C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963F04CC-724D-435B-987E-8B92F7741B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963F04CC-724D-435B-987E-8B92F7741B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963F04CC-724D-435B-987E-8B92F7741B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963F04CC-724D-435B-987E-8B92F7741B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A909922F-F7DA-4EE6-9B36-04E3B3CA1360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A909922F-F7DA-4EE6-9B36-04E3B3CA1360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A909922F-F7DA-4EE6-9B36-04E3B3CA1360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A909922F-F7DA-4EE6-9B36-04E3B3CA1360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7B4FBD-BCC8-4734-A796-48CE0D674CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7B4FBD-BCC8-4734-A796-48CE0D674CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7B4FBD-BCC8-4734-A796-48CE0D674CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7B4FBD-BCC8-4734-A796-48CE0D674CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BEF0A3F-A420-434A-9565-FA7D1CD6A1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BEF0A3F-A420-434A-9565-FA7D1CD6A1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BEF0A3F-A420-434A-9565-FA7D1CD6A1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BEF0A3F-A420-434A-9565-FA7D1CD6A1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D45F1B5-1CBA-4620-A9E5-BE9E39C65ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D45F1B5-1CBA-4620-A9E5-BE9E39C65ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D45F1B5-1CBA-4620-A9E5-BE9E39C65ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D45F1B5-1CBA-4620-A9E5-BE9E39C65ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D70562-F80C-46B6-80AF-BC298122542B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D70562-F80C-46B6-80AF-BC298122542B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D70562-F80C-46B6-80AF-BC298122542B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D70562-F80C-46B6-80AF-BC298122542B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
